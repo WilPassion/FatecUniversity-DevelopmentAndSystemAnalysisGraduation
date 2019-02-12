@@ -1,0 +1,10 @@
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\obj\Debug\Exerc1Calculadora.csprojAssemblyReference.cache
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\obj\Debug\Exerc1Calculadora.Form1.resources
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\obj\Debug\Exerc1Calculadora.Properties.Resources.resources
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\obj\Debug\Exerc1Calculadora.csproj.GenerateResource.cache
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\obj\Debug\Exerc1Calculadora.csproj.CoreCompileInputs.cache
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\bin\Debug\Exerc1Calculadora.exe.config
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\bin\Debug\Exerc1Calculadora.exe
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\bin\Debug\Exerc1Calculadora.pdb
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\obj\Debug\Exerc1Calculadora.exe
+C:\cSharpFATEC\PROGRAMACAO_MICROINFORMATICA\Repeticao3\Exerc1Calculadora\Exerc1Calculadora\obj\Debug\Exerc1Calculadora.pdb
